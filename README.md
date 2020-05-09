@@ -13,13 +13,8 @@ The maze is divided into portions, where each pixel can represent a path or wall
 After image gets loaded into the application, then we analyze the image for node generation. The image is analyzed or extracted in a row-wise manner, initially starting from the left-most node of the image. The path where there are no juncture, will contain no nodes, but at a junction point and at the end part of each leading path, nodes are generated. Now, combining all these nodes, we get a graph that can be traversed. All these nodes will be connected, as they were analyzed in image, giving a resultant graph.
 We store the visited nodes in memory, which will later help in backtracking and removing ambiguity and avoid deadlock situations during traversal. 
 
- 
-Figure 1
 
 The user will interact using an intuitive GUI, which will allow user to view the maze image. Along with slider movement to select starting position and end position in the maze image, to get the path. The user also selects the algorithm using which the maze has to be solved. 
-
- 
-Figure 2
 
 
 The application will use 4 algorithms to solve the maze:
