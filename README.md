@@ -5,7 +5,7 @@ Algorithms involved in this project are Breadth First Search, Depth First Search
 After traversal with each algorithm, we compare the result with each, and find the most the best solutions we get in terms of path length, path explored, and time elapsed.
 
 
-Proposed Work
+### Proposed Work
 
 Firstly, let us talk about the Image constraints which is to be loaded on to the application for processing. Image should be a Black and White (2D Matrix) image. Initially the image will have a non-RGB value.
 Here, every pixel denotes 1- white and 0- black (1 for Black and 0 for White).
