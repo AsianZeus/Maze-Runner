@@ -1,0 +1,2 @@
+# Maze-Runner
+Maze Runner is based on Travelling Salesman Problem, to minimize the travelling cost to find the best possible solution. The user input maze image of m x n dimension which is converted to a graph, extracting the nodes and making connections which is used to traverse the maze via different algorithms. So, the user can compare different algorithms to get the most efficient path, while generating nodes in a graph. The maze can be a source to find the shortest easy path, from the multiple path that leads to the solution.
