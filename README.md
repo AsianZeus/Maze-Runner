@@ -4,7 +4,9 @@ TSP Problem is one of the complex, where multiple solution paths can be found, b
 Algorithms involved in this project are Breadth First Search, Depth First Search, Dijkstra, and A-Star, can be used to explore and traverse through the shortest path possible.   
 After traversal with each algorithm, we compare the result with each, and find the most the best solutions we get in terms of path length, path explored, and time elapsed.
 
-<center><img src="ReadMe-Files/workflow.gif" width="200"></center>
+<p align="center">
+  <img src="ReadMe-Files/workflow.gif" width="350">
+</p>
 
 ### Proposed Work
 
